@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Eliseu</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZxenVjamhnM3FjMG4wejNxYjA2ZG4xc3NyaTRrdzRjNjlwZ3Q5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="100px"> </h1>
+   <h1>Hi there, I'm <a href="https://hemant.codes">Eliseu</a> <img src="" width="100px"> </h1>
    <p align="center">
   🔬 I'm currently studying Technological Specialization, which leads to a level 5 qualification at ATEC
   <br>
@@ -20,8 +20,8 @@
 
 <div align="center"> 
 
-  <div style="display: inline_block"><br>
-    <img align="left" height="350" alt="coding-time" src="code.gif">
+  <div style="display: inline_block"><br> 
+                    <img align="left" height="350" alt="coding-time" src="code.gif">
     <h6 align="center">Skills</h6>
 
   <!-- Skills Badges -->
