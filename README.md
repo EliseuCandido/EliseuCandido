@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Eliseu</a> <img src="" width="100px"> </h1>
+   <h1>Hi there, I'm <a href="https://hemant.codes">Eliseu</a>  </h1>
    <p align="center">
   🔬 I'm currently studying Technological Specialization, which leads to a level 5 qualification at ATEC
   <br>
