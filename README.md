@@ -22,7 +22,7 @@
 
   <div style="display: inline_block"><br>
     <img align="left" height="350" alt="coding-time" src="code.gif">
-    <h2 align="center">Skills</h2>
+    <h6 align="center">Skills</h6>
 
   <!-- Skills Badges -->
   <div style="margin-bottom: 20px;">
@@ -111,39 +111,46 @@
     </a>
   </div>
   
-  <br>
-  
-<h2 align="center">Operating Systems</h2>
+<h6 align="center">Operating Systems</h6>
   
 <div style="margin-top: 20px; text-align: center;">
 
   <!-- Windows Badge -->
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" style="margin-right: 10px;">
-    <img alt="Windows-icon" src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img alt="Windows-icon" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white">
   </a>
   
   <!-- macOS Badge -->
   <a href="https://www.apple.com/macos/" target="_blank" style="margin-right: 10px;">
-    <img alt="macOS-icon" src="https://img.shields.io/badge/-macOS-black?style=for-the-badge&logo=apple&logoColor=white">
+    <img alt="macOS-icon" src="https://img.shields.io/badge/-macOS-black?style=flat&logo=apple&logoColor=white">
   </a>
 
   <!-- Linux Badge -->
   <a href="https://www.linux.org/" target="_blank" style="margin-right: 10px;">
-    <img alt="Linux-icon" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="Linux-icon" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
   </a>
 
   <!-- Ubuntu Badge -->
   <a href="https://ubuntu.com/" target="_blank">
-    <img alt="Ubuntu-icon" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img alt="Ubuntu-icon" src="https://img.shields.io/badge/-Ubuntu-E95420style=flat&logo=ubuntu&logoColor=white">
   </a>
 </div>
   </div>
 </div>
 
 
-<h2 align="center">Contacts</h2>
-
+<h6 align="center">Contacts</h6>
 <h5 align="center">
   <a href="https://www.linkedin.com/in/eliseucandido/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"  target="_blank"></a>
   <a href="mailto: eliseu.candido.t0123764@edu.atec.pt"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
+</h5>
+
+<h6 align="center">Contacts</h6>
+<h5 align="center">
+  <a href="https://www.linkedin.com/in/eliseucandido/" target="_blank">
+    <img width="34" height="34" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="mailto: eliseu.candido.t0123764@edu.atec.pt" target="_blank">
+    <img width="34" height="34" src="https://img.icons8.com/3d-fluency/94/filled-message.png" alt="filled-message"/>
+  </a>
 </h5>
