@@ -141,12 +141,6 @@
 
 <h6 align="center">Contacts</h6>
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/eliseucandido/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"  target="_blank"></a>
-  <a href="mailto: eliseu.candido.t0123764@edu.atec.pt"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
-</h5>
-
-<h6 align="center">Contacts</h6>
-<h5 align="center">
   <a href="https://www.linkedin.com/in/eliseucandido/" target="_blank">
     <img width="34" height="34" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>
   </a>
