@@ -20,9 +20,11 @@
 
 <div align="center"> 
 
+  
   <div style="display: inline_block"><br> 
-                    <img align="left" height="350" alt="coding-time" src="code.gif">
+                 <!--   <img align="left" height="350" alt="coding-time" src="code.gif"> -->
     <h6 align="center">Skills</h6>
+   
 
   <!-- Skills Badges -->
   <div style="margin-bottom: 20px;">
