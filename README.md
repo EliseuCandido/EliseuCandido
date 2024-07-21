@@ -68,49 +68,10 @@
     <img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
     </a>
     &nbsp;
-    <a href="https://git-scm.com/">
-    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://dotnet.microsoft.com/">
-    <img alt=".NetCore" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://code.visualstudio.com/">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://visualstudio.microsoft.com/">
-    <img alt="Microsoft Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://github.com/">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://developer.apple.com/xcode/">
-    <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://www.jetbrains.com/idea/">
-    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white">
-    </a>
-    &nbsp;
     <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
     </a>
     &nbsp;
-    <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://www.jetbrains.com/phpstorm/">
-    <img src="http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=phpstorm&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
-    </a>
   </div>
   
 <h6 align="center">Operating Systems</h6>
